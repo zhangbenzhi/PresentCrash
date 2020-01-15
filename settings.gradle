@@ -1,0 +1,2 @@
+include ':app', ':present_crash'
+rootProject.name='PresentCrash'
